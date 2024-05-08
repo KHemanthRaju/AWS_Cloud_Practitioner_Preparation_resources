@@ -90,7 +90,7 @@ Amazon RDS
 
 ### ***Shared responsibility model:***
 
-![Untitled](https://file.notion.so/f/f/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/a3462f9b-e611-4f2a-a56b-0cb2a43ce082/Untitled.png?id=1a3219bb-00da-456e-8651-8f9cbc075be0&table=block&spaceId=9c2f3682-322a-4b7b-ab6a-b9e67e08559f&expirationTimestamp=1715299200000&signature=xEqNlDgU8vKDLKx0D6YrGV2bf3oHKK6HhKMGBIBjLEQ&downloadName=Untitled.png)
+![Untitled](file:///C:/Users/HR090056/Downloads/9c5af78b-c4a3-4329-b3ed-24fbb5163b5f_Export-e938a037-cad8-4a62-af89-6d3f00d14e38/AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled.png)
 
 ![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%201.png)
 
