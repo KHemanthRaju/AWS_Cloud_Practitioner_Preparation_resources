@@ -1,4 +1,4 @@
-# AWS_Cloud_Practitioner_Preparation_resources
+# AWS Cloud Practitioner Certificate Preparation
 
 1. Cloud Concepts
 2. Services
@@ -90,143 +90,143 @@ Amazon RDS
 
 ### ***Shared responsibility model:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/a3462f9b-e611-4f2a-a56b-0cb2a43ce082/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/d716984d-b6a7-47c2-abde-2a2ed98c8a54/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%201.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/7f8b76d3-a300-4b08-b467-cf445a0fca36/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%202.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/3581f9aa-3be5-4fcd-b379-621449c23673/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%203.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/6436103f-4b93-451b-bf29-4351131bcf4f/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%204.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/23197646-48b6-4eb9-8794-82267cc28dc5/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%205.png)
 
 **Storage Services:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/8e077301-6678-418b-bd3e-702fbbf0c042/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%206.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/cd2e28f1-032a-436c-b5b7-fafa294a486e/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%207.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/5a153188-42f5-4122-b50c-ff8b6c0a861c/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%208.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/d63cdd52-386b-4cc1-b21f-315fbc3213a4/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%209.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/5fe329da-5faa-419a-a716-4df0058dcfbf/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2010.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/21daf3d6-278f-4bf3-8f2d-008d6259f477/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2011.png)
 
 ### ***AWS Database:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/532bb44a-6287-4273-b583-60f6dcd4cdfb/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2012.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/e2c54033-25b2-4784-a202-69e597b31f88/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2013.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/3e9726d8-9901-4656-97c2-50709b0002d5/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2014.png)
 
 ### ***AWS Networking:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/2f15b127-9603-46a0-909e-735ef070a6a9/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2015.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/8577207f-0706-453b-8ea1-7e446c8af670/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2016.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/8cb92594-cbd5-4c7b-829f-f12ba15fb9a6/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2017.png)
 
 ### ***AWS Security:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/68b65151-009c-4847-a753-899b46fc54ba/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2018.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/ca30130b-082f-4c9a-b269-d78bd5af3bb5/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2019.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/e6779bf7-fb06-4229-85a5-af8dd20e12b6/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2020.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/f1fcce39-b16f-4317-8ecb-0b494c5fcf05/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2021.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/f2737115-2fa1-45d3-a992-d73811a9470c/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2022.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/371c7263-5a94-427e-94b5-99ce98490da5/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2023.png)
 
 ### ***AWS User and Identity Management:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/b9c3a962-1c5f-46ec-9436-4ca63eddc874/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2024.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/c9cdef2a-e617-43f8-b926-bb4da245a72d/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2025.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/24f00125-41e7-4204-8847-48c0e175f2a0/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2026.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/df7dc127-f133-47d1-98bb-0e0638fb1415/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2027.png)
 
 ### ***Containers:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/19797128-7790-48a4-b705-f8d16a898282/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2028.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/13c1e969-057f-4412-898a-e15002d3db7a/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2029.png)
 
 ### *AWS Organizations and Accounts:*
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/4725523b-ea40-4f7a-a189-9341ae80b409/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2030.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/3d776075-f96a-432d-88da-4efe1e796a6e/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2031.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/d38c61fa-9a91-48cc-9c3b-0e40b6014cf0/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2032.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/b568bc6c-fb34-4578-bddc-9f958bcda884/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2033.png)
 
 ### *Logging:*
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/f884415f-208d-4830-a199-f0020c73e776/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2034.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/c0f2bf72-f66f-4fe0-8f08-66d7faf13973/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2035.png)
 
 ### *Price and Billing:*
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/8c75613e-c5a7-4ad2-ae3f-b6f8ff7c2218/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2036.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/5061acd6-5242-4864-8e1e-ffc730f81496/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2037.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/733a87c6-3bbd-4a42-bcb0-c8af2b7404c8/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2038.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/2da8b9b9-cc19-4e4a-a82b-e299214f9e94/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2039.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/27742512-ae0d-41f9-a63e-28f1b34e7383/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2040.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/843843cf-1ec9-4349-864e-d79666ac16f3/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2041.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/bdca2634-f7eb-42ec-ae94-b74f2c8b3565/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2042.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/7c2327ad-dc9f-43cd-a989-d852ec666735/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2043.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/676c00d2-5bb7-4d62-a58b-b9a18f14d25c/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2044.png)
 
 ## *Important Slides:*
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/cb40892f-918d-4394-a038-99095f3bedc2/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2045.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/b07ec9ea-8cd4-4fcc-ad24-73532931466a/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2046.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/9d269800-e970-4a86-9dc0-2001d135efd5/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2047.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/dc2defa8-3985-4b83-ac50-fa629ae15486/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2048.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/06ddf85f-8c08-4e99-a066-fd43f1f38259/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2049.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/3d634b68-664a-4fe2-86f7-e247bd863f8f/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2050.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/d9f660e3-cfd8-42d1-b3ac-51a8fd7c2068/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2051.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/5363dbea-3ac4-43e5-a5c2-cbf8022036cc/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2052.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/799b6b4e-b2a6-4aac-bda3-ad3b1bfac265/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2053.png)
 
 ### ***AWS CloudWatch:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/175a8287-4b8e-4393-80d0-64622c0658c0/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2054.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/b38f3a13-4e3f-4c95-a154-79474d0d16a2/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2055.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/eba9c520-6ae8-476e-8a24-9d135749ee73/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2056.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/ed6fdcb1-3e8e-4ef2-b778-518c6b2264cf/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2057.png)
 
 ### ***Amazon CloudFront:***
 
@@ -234,9 +234,9 @@ Edge Locations - CDN - DNS - Streaming - Caches
 
  
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/d57653c9-b795-4966-9fe0-e3f774e9ddfe/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2058.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/7676f303-2e0e-4790-bf96-54b88c8be0b8/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2059.png)
 
 ### ***AWS Lambda:***
 
@@ -246,13 +246,13 @@ Serverless Infrastructure
 
 ***AWS Redshift*** → data warehouse
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/c28974d0-1ecc-442d-84d0-1dacd3a78d66/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2060.png)
 
 ### ***Automation tool services:***
 
 **AWS Cloudformation:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/5bf82aa6-5bba-403e-a55f-ac7326aa9854/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2061.png)
 
 Elastic Beanstalk
 
@@ -260,25 +260,25 @@ Opswork
 
 **AWS Elastic BeanStalk:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/93c86cf8-b004-4641-afcd-4e3fe5784174/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2062.png)
 
 ***AWS Shield, AWS WAF:***
 
 AWS Shield → DDos Attacks
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/90f80864-4e84-4242-a251-b34fa9bf4723/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2063.png)
 
 ## ***Security:***
 
 ***Shared-Responsibility Model:***
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/e9bca5a3-0815-4266-aebd-ea1cd2898c48/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2064.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/3d9cfdcf-bb94-4d22-b553-24fdec165376/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2065.png)
 
 IAM Roles and groups:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/bcd6771e-1ec1-4966-aefc-491b0e86a742/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2066.png)
 
 ### ***AWS Organizations:***
 
@@ -309,7 +309,7 @@ IAM Roles and groups:
 
 AWS CAF:(Cloud Adaption Framework)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9c2f3682-322a-4b7b-ab6a-b9e67e08559f/f676abfe-351b-4978-bb43-e8bf5e65a6c7/Untitled.png)
+![Untitled](AWS%20Cloud%20Practitioner%20Certificate%20Preparation%2048c0e91d7893408a87214915e6558417/Untitled%2067.png)
 
 AWS Shared responsibility:
 
